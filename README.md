@@ -11,7 +11,7 @@
 - [Schedule](https://github.com/haein001/CMU_IT-Project-Management/blob/04d01b681788cdb2c73350505854e7f0cf7d21f4/CMU%20east%20garage.mpp)
 	Schdeule created using MS Project
 
-# Contents
+## Contents
 **Identify improvements/ issues in CMU related to Information Technology.The purpose of the project is to experience the phases of project management in a real-world situation.**
 
 For full document of the project report, see [Final Report](https://github.com/haein001/CMU_IT-Project-Management/blob/19ffae9266bae6005679ed07a82d817c44c593c1/East%20Campus%20Garage%20Project%20Management%20Report.pdf).
