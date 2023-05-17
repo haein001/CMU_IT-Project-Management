@@ -8,7 +8,7 @@ Spring 2023, IT Project Management Class
 - [Executive Deliverable](https://github.com/haein001/CMU_IT-Project-Management/files/11501456/Executive.level.briefing.pdf)
 	Executive deliverable presentation at the start of the project
 	
-- [Schedule](CMU east garage.mpp)
+- [Schedule](https://github.com/haein001/CMU_IT-Project-Management/blob/04d01b681788cdb2c73350505854e7f0cf7d21f4/CMU%20east%20garage.mpp)
 	Schdeule created using MS Project
 
 Identify improvements/ issues in CMU related to Information Technology.
