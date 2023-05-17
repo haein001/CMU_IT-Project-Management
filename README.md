@@ -1,5 +1,4 @@
-# CMU_IT-Project-Management
-Spring 2023, IT Project Management Class
+*Spring 2023, IT Project Management Class*
 
 
 - [Final Report](https://github.com/haein001/CMU_IT-Project-Management/blob/19ffae9266bae6005679ed07a82d817c44c593c1/East%20Campus%20Garage%20Project%20Management%20Report.pdf)
