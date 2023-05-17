@@ -2,10 +2,10 @@
 Spring 2023, IT Project Management Class
 
 
-- [Final Report](https://github.com/haein001/CMU_IT-Project-Management/files/11501440/East.Campus.Garage.Project.Management.Report.pdf)
+- [Final Report](https://github.com/haein001/CMU_IT-Project-Management/blob/19ffae9266bae6005679ed07a82d817c44c593c1/East%20Campus%20Garage%20Project%20Management%20Report.pdf)
 	Final report of the project
 	
-- [Executive Deliverable](https://github.com/haein001/CMU_IT-Project-Management/files/11501456/Executive.level.briefing.pdf)
+- [Executive Deliverable](https://github.com/haein001/CMU_IT-Project-Management/blob/19ffae9266bae6005679ed07a82d817c44c593c1/Executive%20level%20briefing.pdf)
 	Executive deliverable presentation at the start of the project
 	
 - [Schedule](https://github.com/haein001/CMU_IT-Project-Management/blob/04d01b681788cdb2c73350505854e7f0cf7d21f4/CMU%20east%20garage.mpp)
